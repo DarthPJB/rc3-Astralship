@@ -1,0 +1,3 @@
+[submodule "Shared/rc3-test"]
+	path = Shared/rc3-test
+	url = https://github.com/MatthewCroughan/rc3-test.git
