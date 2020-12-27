@@ -167,8 +167,14 @@
  "nextlayerid":20,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"playAudio",
+         "type":"string",
+         "value":"Shared\/laser_portal.mp3"
+        }],
  "renderorder":"right-down",
- "tiledversion":"1.3.2",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -515,6 +521,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.2,
+ "version":1.4,
  "width":20
 }
