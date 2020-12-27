@@ -1,4 +1,11 @@
 { "compressionlevel":0,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":20,
  "infinite":false,
  "layers":[
@@ -81,7 +88,7 @@
                  "value":"lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json#start_astralship"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":20,
          "x":0,
          "y":0
