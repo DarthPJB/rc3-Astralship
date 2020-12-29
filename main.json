@@ -16,7 +16,7 @@
          "name":"collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":"88\/experiment.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
                  "value":"lobby.maps.at.rc3.world\/maps\/erfas-spaces-north.json#start_astralship"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
                  "value":"shared_heyopeops"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -106,7 +106,7 @@
                  "value":"http:\/\/www.nyan.cat\/"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -124,7 +124,7 @@
                  "value":"https:\/\/www.google.com\/search?q=puppy+pics&client=firefox-b-d&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjgt5uWt9XtAhUTnVwKHardA2IQ_AUoAXoECB8QAw&biw=1920&bih=976"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":20,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
          "objects":[],
          "opacity":0.99,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
